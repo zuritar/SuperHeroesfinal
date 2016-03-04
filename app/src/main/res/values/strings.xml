@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SuperHeroesfinal</string>
+
+
+    <string-array name="superheroes_nombres">
+        <item>"Capitan America"</item>
+        <item>"Flash"</item>
+        <item>"Ironman"</item>
+        <item>"Spiderman"</item>
+        <item>"Superman"</item>
+        <item>"Thor"</item>
+        <item>"Wolverine"</item>
+    </string-array>
+
+    <string-array name="superheroes_descripcion">
+        <item>"El Capitán América viste un traje que lleva un motivo de la bandera de los Estados Unidos, y está armado con un escudo casi indestructible el cual arroja a sus enemigos. El personaje es generalmente representado como el álter ego de Steve Rogers, un joven frágil mejorado a la cima de la perfección humana por un suero experimental para ayudar a los esfuerzos inminentes del gobierno de Estados Unidos en la Segunda Guerra Mundial. Cerca del final de la guerra, él queda atrapado en el hielo y sobrevive en animación suspendida hasta que es revivido en el presente"</item>
+        <item>"Apodado el Corredor Escarlata, el Cometa Carmesí, La Mancha, y La Raya,Bala SuperSonica, todas las encarnaciones de Flash poseen súper velocidad, que incluye la habilidad de correr y moverse extremadamente rápido, gran fuerza, usar reflejos sobrehumanos, y aparentemente violar ciertas leyes de la física."</item>
+        <item>"Tony Stark es un exitoso multimillonario, empresario e ingeniero, con una lujosa vida y una enorme fortuna gracias a sus inventos y a la herencia de su padre, pero su vida toma un giro repentino cuando es secuestrado por un grupo terrorista y sufre una grave lesión en el pecho cuando un fragmento de metralla se clava cerca de su corazón y amenaza con matarlo, sus captores tratan de obligarlo a construir un arma de destrucción masiva para ellos. Él crea en su lugar una poderosa armadura de hierro con armas incorporadas en el que él se metería para salvar su vida y escapar de su cautiverio."</item>
+        <item>"Durante una visita que el brillante estudiante hacía a una exhibición científica, fue mordido por una araña que había sido expuesta a los experimentos radiactivos que allí se llevaban a cabo.1 Esto provocó que paulatinamente Parker adquiriera poderes sobrehumanos: la velocidad, fuerza y agilidad proporcionales a las de una araña de su tamaño; un "sentido arácnido" que le avisa de peligros y la habilidad de adherirse y desplazarse por cualquier muro o pared, independientemente de su horizontalidad."</item>
+        <item>"Superman (cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent) es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics"</item>
+        <item>"Thor (del nórdico antiguo Þórr; Dzor, pronunciado tradicionalmente en español como Tor) es el dios del trueno en la mitología nórdica y germánica. Su papel es complejo ya que tenía influencia en áreas muy diferentes, tales como el clima, las cosechas, la protección, la consagración, la justicia, las Lidias, los viajes y las batallas"</item>
+        <item>"ames Howlett, comúnmente llamado Wolverine, es un personaje y superhéroe de Marvel Comics, miembro de los X-Men y ocasionalmente, parte de Los Vengadores. El es uno de los mutantes más conocidos del universo Marvel, y sus poderes radicaban en poseer un factor curativo extremadamente aumentado junto con un esqueleto recubierto de Adamantium (implantado artificialmente), así como un notorio aumento de sus sentidos lo que le hizo un combatiente formidable."</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
